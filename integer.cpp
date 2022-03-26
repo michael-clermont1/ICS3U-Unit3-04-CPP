@@ -5,7 +5,6 @@
 // This program is a guessing game
 
 #include <iostream>
-#include <random>
 
 int main() {
     // this function is a guessing game
